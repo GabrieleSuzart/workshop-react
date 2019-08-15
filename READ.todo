@@ -1,0 +1,8 @@
+npm i -g create-react-app
+
+npm init react-app my-app
+
+npm i bootstrap
+
+npm i node-sass
+
