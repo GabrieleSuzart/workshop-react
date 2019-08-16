@@ -1,11 +1,12 @@
 import React from 'react';
+import Routes from './Routes'
 import './App.scss';
 
 function App() {
   return (
-    <div className="d-flex justify-content-center align-items-center font-weight-bold h-100">
-      <span className="p-3">Hello World!</span>
-    </div>
+    <>
+      <Routes />
+    </>
   );
 }
 
